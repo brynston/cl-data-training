@@ -2,5 +2,5 @@
 
 for i in {1..10}
 do
-  echo "tom: $i"
+  echo "fred: $i"
 done
